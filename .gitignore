@@ -1,18 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 .ipynb_checkpoints/
 Scripts/.ipynb_checkpoints/
-=======
 Data/release_db.sqlite
->>>>>>> master
-=======
-Data/release_db.sqlite
->>>>>>> master
-=======
-Data/release_db.sqlite
->>>>>>> master
-=======
-Data/release_db.sqlite
->>>>>>> master
+Data/pld-index.tsv.gz
+Data/tracking-graph.tsv.gz
