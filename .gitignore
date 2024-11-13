@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 .ipynb_checkpoints/
 Scripts/.ipynb_checkpoints/
+=======
+Data/release_db.sqlite
+>>>>>>> master
