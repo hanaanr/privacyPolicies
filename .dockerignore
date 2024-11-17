@@ -1,0 +1,7 @@
+Data
+*.pyc
+__pycache__/
+*.ipynb_checkpoints/
+.DS_Store
+bfg.jar
+**/.git
