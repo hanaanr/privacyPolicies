@@ -4,3 +4,10 @@ seaborn
 matplotlib
 statsmodels
 scikit-learn
+tldextract
+IPy
+requests
+cookies
+tabulate
+pymongo 
+ipykernel
