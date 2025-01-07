@@ -3,4 +3,4 @@ Scripts/.ipynb_checkpoints/
 Data/release_db.sqlite
 Data/pld-index.tsv.gz
 Data/tracking-graph.tsv.gz
-Data/waybackCollectedData
+Data/waybackCollectedData*.pickle
