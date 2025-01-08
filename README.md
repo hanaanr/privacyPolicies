@@ -1,6 +1,7 @@
-# Hidden in Plain Sight: Understanding Privacy Policy Readability
-## Capstone Paper by Hanaan Shafi
-## Data & Decisions (Applied Data Institute) taught by Abhilash Mishra & Labbi Karmacharya
+### Hidden in Plain Sight: Understanding Privacy Policy Readability
+
+Capstone Paper by Hanaan Shafi
+Data & Decisions (Applied Data Institute) taught by Abhilash Mishra & Labbi Karmacharya
 
 Abstract
 
